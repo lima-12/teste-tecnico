@@ -1,0 +1,9 @@
+[
+    {
+        "id": 4,
+        "descricao": "Academia",
+        "valor": 120,
+        "tipo": "despesa",
+        "pessoaId": 2
+    }
+]

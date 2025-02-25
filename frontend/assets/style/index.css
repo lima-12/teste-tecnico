@@ -1,0 +1,21 @@
+/* Definindo variáveis de cores */
+body {
+
+    --color-primary-1: #75adc5;
+    --color-primary-2: #3596B5;
+    --color-primary-3: #296073;
+    --color-primary-4: #0E0054;
+}
+
+.navbar {
+    background-color: var(--color-primary-1);
+}
+
+.banners {
+    width: 100%;                    /* Largura de 100% da largura disponível */
+    height: 100vh;                  /* Altura de 100% da altura da viewport */
+}
+
+footer{
+    background-color: var(--color-primary-1);
+}
