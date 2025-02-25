@@ -10,7 +10,6 @@ gastos-residenciais
         PessoaController.php    # Funções que gerenciam o armazenamento de pessoas.json
         TransacaoController.php # Funções que gerenciam o armazenamento de transacoes.json
         routes.php              # Definição das rotas do backend
-    
     frontend/                   # Interface do usuário
         assets/                 # "Contexto" - Recursos do seu projeto.
             js/                 # Funções que interligam o frontend com o backend
@@ -24,7 +23,6 @@ gastos-residenciais
         pessoas.php             # Gerenciamento das pessoas 
         transacoes.php          # Gerenciamento das transacoes
         index.php               # Página principal do sistema
-    
     index.php               # Redireciona para frontend/index.php
     README.md               # Documentação do projeto
 
