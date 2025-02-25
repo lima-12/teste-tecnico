@@ -2,6 +2,7 @@
 
 ## **Estrutura do Projeto**
 
+```bash
 gastos-residenciais
     backend/                    # Lógica do servidor e APIs
         data/                   # Armazenamento em JSON
@@ -25,7 +26,7 @@ gastos-residenciais
         index.php               # Página principal do sistema
     index.php               # Redireciona para frontend/index.php
     README.md               # Documentação do projeto
-
+```
 ---
 
 ## **Como Rodar o Projeto**
