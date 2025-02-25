@@ -41,7 +41,7 @@ gastos-residenciais
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/gastos-residenciais](https://github.com/lima-12/teste-tecnico.git
+git clone https://github.com/lima-12/teste-tecnico.git
 cd teste-tecnico
 ```
 
