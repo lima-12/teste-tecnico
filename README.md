@@ -1,4 +1,5 @@
 # Sistema de Controle de Gastos Residenciais
+### Desenvolvido por Jefferson Matheus Ferreira de Lima
 
 ## **Estrutura do Projeto**
 
